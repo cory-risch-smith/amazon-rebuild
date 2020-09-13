@@ -1,3 +1,6 @@
+App was deployed on Firebase. You can check the app here:
+https://rebuild-f71a0.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
